@@ -1,0 +1,14 @@
+body {
+    background-color: lightseagreen;
+}
+
+h1 {
+    color: black;
+    text-align:center;
+}
+
+p {
+    color: black;
+    font-family: Arial;
+    font-size: 20px;
+}
